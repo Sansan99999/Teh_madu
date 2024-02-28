@@ -1,0 +1,11 @@
+{
+  "name": "teh_madu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "this is teh"
+  },
+  "author": "sansan99999",
+  "license": "ISC"
+}
